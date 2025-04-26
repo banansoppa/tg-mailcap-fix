@@ -18,7 +18,7 @@ from subprocess import CompletedProcess
 from types import TracebackType
 from typing import Any, Dict, Optional, Tuple, Type
 
-import mailcap_fix as mailcap
+import mailcap
 
 from tg import config
 
